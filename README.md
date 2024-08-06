@@ -16,7 +16,8 @@ Follow these steps to set up and run the project:
 
 Open up the terminal. Clone the repository to your local machine:
 
-git clone https://github.com/ashwinknan/rag-app-v1.git
+git clone https://github.com/ashwinknan/rag-app-v1
+
 cd rag-app-v1
 
 ### 2. Setup a Virtual environment
