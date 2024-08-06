@@ -19,7 +19,7 @@ Open up the terminal. Clone the repository to your local machine:
 git clone https://github.com/ashwinknan/chatbotv1.git
 cd chatbotv1
 
-### 2. Clone the Repository
+### 2. Setup a Virtual environment
 Setup a virtual environment to manage dependencies:
 
 python -m venv venv
