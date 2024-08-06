@@ -16,8 +16,8 @@ Follow these steps to set up and run the project:
 
 Open up the terminal. Clone the repository to your local machine:
 
-git clone https://github.com/ashwinknan/chatbotv1.git
-cd chatbotv1
+git clone https://github.com/ashwinknan/rag-app-v1.git
+cd rag-app-v1
 
 ### 2. Setup a Virtual environment
 Setup a virtual environment to manage dependencies:
