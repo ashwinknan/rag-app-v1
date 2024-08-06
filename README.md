@@ -33,3 +33,12 @@ pip install -r requirements.txt
 ### 4. Set Up Environment Variables
 Update your .env file with the values of the environment variables set in .env.example
 
+### 5. Enter the session number
+For each session enter the session number. Let your session number start with your name - E.g jay0001 or shriya0001
+For each new conversation, update the session number
+
+### 6. Enter your query in the input_question
+Replace this with your question. You may have to ask it for a source if it does not provide that to you explicitly. 
+
+### 7. For a new question, enter a new session number 
+
