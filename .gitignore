@@ -1,0 +1,5 @@
+# Ignore virtual environment
+myenviron/
+
+# Ignore environment variables file
+.env
